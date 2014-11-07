@@ -26,7 +26,7 @@ Body Mass Index (BMI) is a simple index of weight-for-height that is commonly us
 
 ## The website of shiny
 
-![shiny](D:/study/coursera/9_Developing Data Products/project/BMI_slidify/shiny.png)
+![shiny](./shiny.png)
 
 
 [http://litenglong1988.shinyapps.io/BodyMassIndex](https://litenglong1988.shinyapps.io/BodyMassIndex)
